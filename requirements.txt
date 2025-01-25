@@ -1,2 +1,4 @@
 HTML
-CSS
+Style.CSS
+VS code
+Image prompt
