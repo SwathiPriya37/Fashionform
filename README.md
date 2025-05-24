@@ -1,4 +1,4 @@
-Fashion Academy Website
+### Fashion Academy Website
 This project is a simple HTML-based website for a Fashion Academy. It includes a registration form where users can sign up for courses offered by the academy.
 Features
 
